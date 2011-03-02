@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::OpenSSH::Mux.
+
+0.01  Wed Mar  2 13:45:01 2011
+	- original version; created by h2xs 1.23 with options
+		-AXn Net::OpenSSH::Mux
+
